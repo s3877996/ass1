@@ -1,0 +1,155 @@
+[
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/NAYEON-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Nayeon (나연)",
+    "birthname": "Im Na Yeon (임나연)",
+    "birthplace": "Gangdong-gu, Seoul, South Korea",
+    "coordination": {
+      "latitude": 37.53,
+      "longitude": 127.12389
+    },
+    "height": "163",
+    "weight": "47",
+    "type": "artist",
+    "fact": "Nayeon’s left leg is weak due to her being in a car accident in her childhood."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/JEONGYEON-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Jeongyeon (정연)",
+    "birthname": "Yoo Kyung Wan (유경완)",
+    "birthplace": "Suwon, Gyeonggi, South Korea",
+    "coordination": {
+      "latitude": 37.2638,
+      "longitude": 127.0286
+    },
+    "height": "169",
+    "weight": "50",
+    "type": "artist",
+    "fact": "She is in charge of cleaning the dorm. She likes cleaning."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/MOMO-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Momo (모모)",
+    "birthname": "Hirai Momo (平井 もも)",
+    "birthplace": "Kyōtanabe, Kyoto, Japan",
+    "coordination": {
+      "latitude": 34.8231,
+      "longitude": 135.7711
+    },
+    "height": "167",
+    "weight": "48.5",
+    "type": "artist",
+    "fact": " Momo means Peach in Japanese"
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/SANA-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Sana (사나)",
+    "birthname": "Minatozaki Sana (湊崎 紗夏)",
+    "birthplace": "Tennōji-ku, Osaka, Japan",
+    "coordination": {
+      "latitude": 34.6552,
+      "longitude": 135.518
+    },
+    "height": "168",
+    "weight": "47",
+    "type": "artist",
+    "fact": "Sana is an only child."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/JIHYO-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Jihyo (지효)",
+    "birthname": "Park Ji Soo (박지수)",
+    "birthplace": "Gangdong-gu, Seoul, South Korea",
+    "coordination": {
+      "latitude": 37.603405,
+      "longitude": 127.143738
+    },
+    "height": "162",
+    "weight": "56",
+    "type": "artist",
+    "fact": "She is the TWICE member who trained the most. She trained for 10 years."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/MINA-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Mina (미나)",
+    "birthname": "Myoui Mina (名井 南)",
+    "birthplace": "Gangdong-gu, Seoul, South Korea",
+    "coordination": {
+      "latitude": 37.53,
+      "longitude": 127.12389
+    },
+    "height": "163",
+    "weight": "46",
+    "type": "artist",
+    "fact": "Mina’s favorite sentence in Japanese is “The opposite of love is not hate, but indifference."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/DAHYUN-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Dahyun (다현)",
+    "birthname": "Kim Da Hyun (김다현)",
+    "birthplace": "Gangdong-gu, Seoul, South Korea",
+    "coordination": {
+      "latitude": 29.4241,
+      "longitude": 98.4936
+    },
+    "height": "161",
+    "weight": "49",
+    "type": "artist",
+    "fact": "She and Chaeyoung are in charge of washing the dishes at the dorm."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/CHAEYOUNG-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Chaeyoung (채영)",
+    "birthname": "Son Chae Young (손채영)",
+    "birthplace": "Gangdong-gu, Seoul, South Korea",
+    "coordination": {
+      "latitude": 37.53,
+      "longitude": 127.12389
+    },
+    "height": "163",
+    "weight": "46",
+    "type": "artist",
+    "fact": "She doesn’t like beans. Nayeon makes fun of her because of that."
+  },
+  {
+    "external_urls": {
+      "image": "https://kprofiles.com/wp-content/uploads/2023/05/TZUYU-2-900x600.jpg"
+    },
+    "genres": "Kpop",
+    "stage_name": "Tzuyu (쯔위)",
+    "birthname": "Chou Tzu Yu (周子瑜)",
+    "birthplace": "Gangdong-gu, Seoul, South Korea",
+    "coordination": {
+      "latitude": 22.99083,
+      "longitude": 120.21333
+    },
+    "height": "170",
+    "weight": "48",
+    "type": "artist",
+    "fact": "Tzuyu said that, if she were to be born again, she wants to be born as a short girl."
+  }
+]
